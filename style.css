@@ -1,0 +1,41 @@
+.heading {
+    font-size:18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    font-variant: small-caps;
+}
+
+body {
+    color:cornsilk;
+    background-color:crimson;
+}
+
+label {
+    font-size: 14px;
+    color:darkgreen;
+    background-color: white;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+.emoji {
+    font-size: 48px;
+}
+
+.emotion_name {
+    font-size: 48px;
+}
+
+#result_emotion_name, #result_emotion_name2 {
+    color:darkmagenta;
+}
+
+#camera, #result {
+    border: 2px dashed darkblue;
+    width: 384px;
+    height: 316px;
+}
+
+span {
+    font-size: 30px;
+}
